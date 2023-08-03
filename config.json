@@ -1,0 +1,16 @@
+{
+    "development": {
+        "username": "papas_fritas",
+        "password": "papas_doradas",
+        "database": "papas_db",
+        "host": "aws-mysql.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "tu_usuario",
+        "password": "tu_contraseña",
+        "database": "nombre_de_tu_base_de_datos",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
